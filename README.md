@@ -6,7 +6,7 @@ Uses a dynamic linked list comprised of self-referential data structures to read
 
 Then decode that encoded file using the list of words and the indexes provided.
 
-Commands to use:
+## Commands to use:
 1. make
-2. java MTFencoder <fileToEncode>
-3. java MTFdecode <fileToDecode>
+1. java MTFencoder '<fileToEncode>'
+1. java MTFdecode '<fileToDecode>'
