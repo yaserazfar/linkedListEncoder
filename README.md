@@ -8,5 +8,5 @@ Then decode that encoded file using the list of words and the indexes provided.
 
 ## Commands to use:
 1. make
-1. java MTFencoder '<fileToEncode>'
-1. java MTFdecode '<fileToDecode>'
+1. java MTFencoder *fileToEncode*
+1. java MTFdecode *fileToDecode*
